@@ -1,5 +1,5 @@
 import csv
-import openpyxl
+from openpyxl import Workbook
 from collections import defaultdict
 
 def create_student_scores_csv():
