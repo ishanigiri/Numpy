@@ -1,3 +1,18 @@
+# Write a CSV Parser for Totals in Python Task Details
+#Write a Python program that reads a CSV file containing numerical data.
+#The file has multiple rows and columns. Each row represents a category, and each column contains numeric values.
+#Your parser should calculate:
+#The total for each row.
+#The total for each column.
+#Output the results clearly in the console.
+#Sample Input File (data.csv)
+#Category,Value1,Value2,Value3
+#A,10,20,30
+#B,5,15,25
+#C,8,18,28
+#D,12,22,32
+
+
 import csv
 
 def parse_csv_and_calculate_totals(file_name):

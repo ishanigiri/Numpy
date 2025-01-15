@@ -1,0 +1,6 @@
+{
+    "city": "kathmandu",
+    "temperature": 9.0,
+    "weather_code": 3,
+    "wind_speed": 6.8
+}
